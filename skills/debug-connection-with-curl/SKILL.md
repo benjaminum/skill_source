@@ -1,3 +1,8 @@
+---
+name: debug-connection-with-curl
+description: Diagnose HTTPS/network connection failures caused by proxy configuration and missing or untrusted TLS certificates using curl. Use when requests fail with proxy errors, TLS handshake failures, or certificate trust errors.
+---
+
 # Debug Connection With Curl
 
 ## Purpose
